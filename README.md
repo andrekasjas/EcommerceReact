@@ -2,5 +2,5 @@
 
 ## requeridas
 ```
-$1: react
+react
 ```
