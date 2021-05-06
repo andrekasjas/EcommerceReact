@@ -7,3 +7,7 @@ react
 ```
 imagenes
 ```
+## instalaciones
+```
+npm i bootstrap jquery popper.js
+```
